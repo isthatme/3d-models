@@ -1,5 +1,7 @@
-# INCOMPLETE #
+# First Rev Finished #
+
+Still have to print and test, but should be finished.
 
 ## TODO: ##
 
-- finish up the castor wheel (file is in another folder at the moment)
+- Print and test
